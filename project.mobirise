@@ -39,7 +39,8 @@
       "currency": "USD"
     },
     "uniqCompNum": 6,
-    "versionPublish": "5.3.10"
+    "versionPublish": "5.3.10",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
